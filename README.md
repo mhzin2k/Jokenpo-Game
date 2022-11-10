@@ -1,4 +1,4 @@
-## Bhaskara Calculator
+## Jokenpo Game
 
 ```p
  - Script Basico de Pedra, papel e tesoura ou Jokenpo. Feito em C#
