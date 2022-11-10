@@ -1,0 +1,8 @@
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.AssemblyReference.cache
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.SuggestedBindingRedirects.cache
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.CoreCompileInputs.cache
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\bra18\source\repos\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
